@@ -6,7 +6,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ***
 
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>We are releasing <a href="http://hugobots.com">Hugobots</a> soon. Make sure to subscribe!</p>
+<p align="center"><b> Let me know what you think </b><br></p>
 
 ***
 
